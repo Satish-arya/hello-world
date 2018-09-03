@@ -1,2 +1,9 @@
-# hello-world
-just another repository
+//hello world program
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+printf("hello world");
+getch();
+}
